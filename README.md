@@ -1,8 +1,8 @@
-# 🎮 Tic Tac Toe Game in Java
+#  Tic Tac Toe Game in Java
 
 A simple Tic Tac Toe game developed using **Java**. The project includes both a **console-based version** and a **graphical user interface (GUI)** version built using **Java Swing**.
 
-## 📌 Features
+##  Features
 
 * Two-player Tic Tac Toe game
 * Console-based gameplay
@@ -19,7 +19,7 @@ A simple Tic Tac Toe game developed using **Java**. The project includes both a 
 * Java Swing
 * Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 TicTacToe/
@@ -31,7 +31,7 @@ TicTacToe/
 └── README.md
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### Compile the Project
 
@@ -51,13 +51,13 @@ java Game
 java TicTacToeGUI
 ```
 
-## 🎯 Game Rules
+##  Game Rules
 
 * Players take turns placing their symbols (**X** and **O**) on the board.
 * The first player to get three symbols in a row, column, or diagonal wins.
 * If all cells are filled and no player wins, the game ends in a draw.
 
-## 📸 Output
+##  Output
 
 ### Console Version
 
@@ -75,7 +75,7 @@ java TicTacToeGUI
 * Pop-up message displayed for winner or draw.
 * Board automatically resets for a new game.
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 
 * Classes and Objects
 * Encapsulation
@@ -86,7 +86,7 @@ java TicTacToeGUI
 * GridLayout
 * Game Logic Implementation
 
-## 📚 Future Enhancements
+## Future Enhancements
 
 * Single Player Mode (AI)
 * Scoreboard
@@ -95,7 +95,7 @@ java TicTacToeGUI
 * Improved UI Design
 * Difficulty Levels
 
-## 👨‍💻 Author
+## Author
 
 **Rana Prudhvi**
 
